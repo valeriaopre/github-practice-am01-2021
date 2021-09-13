@@ -87,4 +87,4 @@
 |59| Clemens SCherf | 2 | z0omer | <https://github.com/z0omer> | <https://github.com/z0omer> | 2021-09-08 |
 |60| Zhicong Hu | 8 | zhiconghu | <https://github.com/zhiconghu> | <https://zhiconghu.netlify.app> | 2021-09-09 |
 |61| Linli Ding | 2 | lld2-c | <https://github.com/lld2-c/my_website> | <https://my-website-ld.netlify.app/> | 2021-09-11 |
-       
+|62| Valeria Opre | 7 | valeriaopre | https://github.com/valeriaopre/website2 |https://websitevaleriaopre.netlify.app/ |    
